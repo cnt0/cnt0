@@ -1,4 +1,8 @@
-### Hi there 👋
+Hi there. I'm just some private guy who's mainly interested in what is called systems programming. Cryptography and the like.
+
+Ultimately bad software developer with no achievements at all, if you came here looking for some good code then you're dead wrong.
+
+I'd like to contribute to free software, I have many ideas, but no time nor energy for that. Prohibited from drinking cofee, even...
 
 <!--
 **cnt0/cnt0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
